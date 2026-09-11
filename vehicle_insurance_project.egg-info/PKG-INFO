@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: vehicle-insurance-project
+Version: 0.0.1
+Summary: An MLOps project for productionizing models
+Author: Titas Mal
+Author-email: Titas Mal <titas.mal75@gmail.com>
+License-File: LICENSE
+Dynamic: author
+Dynamic: license-file
