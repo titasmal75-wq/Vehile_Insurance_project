@@ -1,0 +1,3 @@
+[ 2026-09-17 14:50:47,880 ] root - INFO - Entered the start_data_ingestion method of TrainPipeline class
+[ 2026-09-17 14:50:47,880 ] root - INFO - Getting the data from mongodb
+[ 2026-09-17 14:50:47,881 ] root - ERROR - Error occurred in python script: [C:\Users\malti\OneDrive\Desktop\Vechile Insurance project\Vehile_Insurance_project\src\pipline\training_pipeline.py] at line number [44]: 'TrainPipeline' object has no attribute 'data_ingestion_config'
